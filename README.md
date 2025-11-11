@@ -1,2 +1,2 @@
 ## My Portfolio
-Visit my interactive portfolio: [View Here](https://herald-mendoza-portfolio-lypef.magicloops.app)
+Visit my portfolio: <a href="https://herald-mendoza-portfolio-lypef.magicloops.app">🔗</a>
